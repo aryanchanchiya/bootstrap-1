@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fuild h2{
+    text-align: center;
+    padding: 50px;
+    font-family: sans-serif;
+}
+
+iframe{
+    margin-left: 70px;
+    padding-left: 50px;
+}
